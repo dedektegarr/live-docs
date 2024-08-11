@@ -42,7 +42,7 @@ export default async function Home() {
             />
           </div>
           <ul className="document-ul">
-            {documents.map((document) => (
+            {documents.map((document: any) => (
               <li key={document.id} className="document-list-item">
                 <Link
                   href={`/documents/${document.id}`}
