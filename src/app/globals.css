@@ -171,7 +171,7 @@
 }
 
 /* ======================== Clerk Override */
-/* .cl-avatarBox {
+.cl-avatarBox {
   width: 36px;
   height: 36px;
 }
@@ -202,10 +202,10 @@
 
 .cl-logoBox {
   height: 52px;
-} */
+}
 
 /* ======================== Liveblocks Override */
-/* .lb-root {
+.lb-root {
   --lb-accent-subtle: #0b1527;
   --lb-radius: 0px;
   --lb-dynamic-background: #1b2840;
@@ -304,4 +304,4 @@
 
 .lb-elevation {
   background: #0f1c34;
-} */
+}

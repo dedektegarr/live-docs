@@ -16,8 +16,6 @@ export default async function Home() {
     clerkUser.emailAddresses[0].emailAddress
   );
 
-  console.log(documents);
-
   return (
     <main className="home-container">
       <Header className="sticky left-0 top-0">
